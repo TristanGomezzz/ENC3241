@@ -10,6 +10,7 @@ The Impact of Artificial Intelligence on Actuarial Science: Risk Modeling, Autom
 Tristan Gomez								
 
 Actuarial Science
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 __Background__ 
@@ -18,6 +19,7 @@ Artificial Intelligence (AI) is reshaping industries that rely on data driven de
 Rather than replacing actuarial work, AI appears to be augmenting it. Machine learning models complement classical statistical techniques by enhancing predictive performance and expanding analytical capabilities. As a result, actuarial roles are evolving to require a broader technical skill set, including programming, data analysis, and familiarity with AI driven tools.
 This shift raises a key question: how is AI changing the skills, expectations, and structure of actuarial careers, particularly for students entering the field? Understanding this transition is critical for students preparing for quantitative careers and for educators guiding them.
 This study examines how AI is influencing actuarial science by analyzing job market trends and gathering insights from industry professionals.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 __Methodology__ 
@@ -48,6 +50,7 @@ Interview topics will include:
 4. Data Analysis
 	• Quantitative data will be analyzed using descriptive statistics to identify trends in job postings and skill requirements
 	• Qualitative data will be analyzed using thematic analysis to identify recurring insights from interviews
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 __Anticipated Outcomes__ 
