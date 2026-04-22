@@ -101,7 +101,7 @@ March 30, 2027 – April 30,2027	Analyze data and draft final report.
 
 __Budget__
 
-Item						Units and Cost				Total			Justification
+Item&emsp;					Units and Cost				Total			Justification
 
 Interviewee incentives		$15/person, 8 people		$120			Compensation for professional participants.
 
