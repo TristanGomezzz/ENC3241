@@ -109,7 +109,7 @@ Cloud Storage		&emsp;&emsp;&emsp;&emsp;&emsp;		 $20 		&emsp;&emsp;&emsp;&emsp;&e
 
 Printing Materials		&emsp;&emsp;&emsp;&emsp;	$20		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;		 	$20			&emsp;&emsp;&emsp;&emsp;&emsp;	Final report and presentation materials.
 
-Software	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;			$0		&emsp;	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;				$0			&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	UCF provides required tools (Python, Excel, etc.)
+Software	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;			$0		&emsp;	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;				$0			&emsp;&emsp;&emsp;&emsp;&emsp;	UCF provides required tools (Python, Excel, etc.)
 
 Transcription				$0							$0				Free tools (Zoom or AI transcription)
 
