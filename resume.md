@@ -55,4 +55,5 @@ QuickBooks, Forecasting, Risk Modeling, Life Table Analysis, Microsoft Excel.
 Python (basic), Java (basic), SQL (basic), R (basic).
 
 __LANGUAGES__
+
 English (fluent), Spanish (fluent)
