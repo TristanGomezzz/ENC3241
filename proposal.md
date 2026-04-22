@@ -57,7 +57,8 @@ This research will produce the following deliverables:
 	• A comparative analysis of pre and post AI skill expectations in actuarial roles
 	• A summary of industry interview insights on hiring trends and career preparation
 • A final written report and presentation suitable for academic or conference submission
-The findings are expected to show that AI is augmenting actuarial work and increasing demand for technical skills such as programming and data analysis. 
+The findings are expected to show that AI is augmenting actuarial work and increasing demand for technical skills such as programming and data analysis.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 __Significance__
@@ -72,6 +73,7 @@ This research will:
 	• Clarify how actuarial roles are evolving
 	• Identify key skills students should prioritize
 	• Provide insight into how AI is shaping quantitative career paths
+	
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 __References__
@@ -80,6 +82,7 @@ Autor, D. H. (2015). Why are there still so many jobs? The history and future of
 Brynjolfsson, E., Li, D., & Raymond, L. R. (2023). Generative AI at work. National Bureau of Economic Research. https://www.nber.org/papers/w31161
 Society of Actuaries. (2023). The future of actuarial work in the age of AI. https://www.soa.org
 Frees, E. W. (2018). Regression modeling with actuarial and financial applications. Cambridge University Press.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 
