@@ -103,7 +103,7 @@ __Budget__
 
 Item&emsp;&emsp;&emsp;&emsp;&emsp;	&emsp;&emsp;	&emsp;	&emsp;&emsp;		Units and Cost		&emsp;&emsp;	&emsp;&emsp;	Total		&emsp;&emsp;	&emsp;&emsp;Justification
 
-Interviewer incentives&emsp;&emsp;		$15/person, 8 people	&emsp;&emsp;	$120	&emsp;&emsp;		Compensation for professional participants.
+Interviewer incentives&emsp;&emsp;		$15/person, 8 people	&emsp;&emsp;	$120	&emsp;&emsp;	&emsp;&emsp;	Compensation for professional participants.
 
 Cloud Storage		&emsp;&emsp;&emsp;&emsp;&emsp;		 $20 		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;				$20			&emsp;&emsp;	&emsp;&emsp;&emsp;Secure storage for datasets and analysis.
 
