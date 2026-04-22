@@ -21,8 +21,7 @@ __Step 3- Locate the oil drain plug__
 
 <p align="center">
 <img width="422" height="282" alt="image" src="https://github.com/user-attachments/assets/f1b97497-bec1-47ce-ba93-284e2173d61b" />
- 
-Figure 1 location of the oil drain plug. Source: https://www.vanagon.org/oil-change-oil-filter
+ Figure 1 location of the oil drain plug. Source: https://www.vanagon.org/oil-change-oil-filter
 </p>
 
 __Step 4- Drain the old oil__
