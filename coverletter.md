@@ -20,5 +20,6 @@ TransRe’s role as a global leader in reinsurance strongly aligns with my caree
 Thank you for your time and consideration. I welcome the opportunity to further discuss how my background and skills can support TransRe’s actuarial objectives.
 
 Sincerely,
+
 Tristan Gomez
 
