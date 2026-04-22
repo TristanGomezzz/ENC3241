@@ -101,9 +101,9 @@ March 30, 2027 – April 30,2027	Analyze data and draft final report.
 
 __Budget__
 
-Item&emsp;					Units and Cost				Total			Justification
+Item&emsp;		&emsp;			Units and Cost			&emsp;&emsp;	Total		&emsp;&emsp;	Justification
 
-Interviewee incentives		$15/person, 8 people		$120			Compensation for professional participants.
+Interviewer incentives&emsp;&emsp;		$15/person, 8 people	&emsp;&emsp;	$120	&emsp;&emsp;		Compensation for professional participants.
 
 Cloud Storage				$20 						$20				Secure storage for datasets and analysis.
 
