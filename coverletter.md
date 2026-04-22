@@ -6,9 +6,13 @@ title: Cover Letter
 # Cover Letter
 
 Tristan Gomez
+
 Oviedo, FL
+
 February 25, 2026
+
 TransRe
+
 New York, NY
 
 Dear Recruiting Manager:
