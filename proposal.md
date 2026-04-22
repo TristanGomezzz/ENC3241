@@ -12,14 +12,16 @@ Tristan Gomez
 Actuarial Science
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Background 
+__Background__ 
+
 Artificial Intelligence (AI) is reshaping industries that rely on data driven decision making, including actuarial science. Traditionally, actuaries use statistical models to assess and manage risk in sectors such as insurance, finance, and healthcare. Recent advances in machine learning and predictive analytics now allow for faster processing of large datasets, improved pattern recognition, and more accurate forecasting.
 Rather than replacing actuarial work, AI appears to be augmenting it. Machine learning models complement classical statistical techniques by enhancing predictive performance and expanding analytical capabilities. As a result, actuarial roles are evolving to require a broader technical skill set, including programming, data analysis, and familiarity with AI driven tools.
 This shift raises a key question: how is AI changing the skills, expectations, and structure of actuarial careers, particularly for students entering the field? Understanding this transition is critical for students preparing for quantitative careers and for educators guiding them.
 This study examines how AI is influencing actuarial science by analyzing job market trends and gathering insights from industry professionals.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Methodology 
+__Methodology__ 
+
 This research will use a mixed methods approach, combining quantitative job market analysis with qualitative interview data.
 1. Job Market Analysis
 Job postings will be collected from platforms such as LinkedIn and Indeed and grouped into two time periods:
@@ -48,7 +50,8 @@ Interview topics will include:
 	• Qualitative data will be analyzed using thematic analysis to identify recurring insights from interviews
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Anticipated Outcomes 
+__Anticipated Outcomes__ 
+
 This research will produce the following deliverables:
 	• A structured dataset of actuarial job postings (2019–2026) with labeled skill requirements
 	• A comparative analysis of pre and post AI skill expectations in actuarial roles
@@ -57,7 +60,8 @@ This research will produce the following deliverables:
 The findings are expected to show that AI is augmenting actuarial work and increasing demand for technical skills such as programming and data analysis. 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Significance 
+__Significance__
+
 This study contributes to understanding how AI affects a field centered on risk modeling and prediction rather than routine task automation.
 The intended audience includes:
 	• Students pursuing actuarial science or quantitative careers
@@ -70,7 +74,8 @@ This research will:
 	• Provide insight into how AI is shaping quantitative career paths
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-References
+__References__
+
 Autor, D. H. (2015). Why are there still so many jobs? The history and future of workplace automation. Journal of Economic Perspectives, 29(3), 3–30.
 Brynjolfsson, E., Li, D., & Raymond, L. R. (2023). Generative AI at work. National Bureau of Economic Research. https://www.nber.org/papers/w31161
 Society of Actuaries. (2023). The future of actuarial work in the age of AI. https://www.soa.org
@@ -78,7 +83,7 @@ Frees, E. W. (2018). Regression modeling with actuarial and financial applicatio
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Timeline 
+__Timeline__
 
 Dates	Tasks
 
@@ -94,7 +99,7 @@ March 30, 2027 – April 30,2027	Analyze data and draft final report.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Budget 
+__Budget__
 
 Item						Units and Cost				Total			Justification
 
