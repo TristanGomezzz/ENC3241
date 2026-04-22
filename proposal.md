@@ -77,22 +77,37 @@ Society of Actuaries. (2023). The future of actuarial work in the age of AI. htt
 Frees, E. W. (2018). Regression modeling with actuarial and financial applications. Cambridge University Press.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 Timeline 
+
 Dates	Tasks
+
 January 1, 2027 – January 20, 2027	Conduct literature review and define research scope.
+
 January 20, 2027 – February 20, 2027	Collect actuarial job posting.
+
 February 20, 2027 – March 10, 2027	Analyze skills trends.
+
 March 10, 2027 – March 30, 2027	Conduct interviews.
+
 March 30, 2027 – April 30,2027	Analyze data and draft final report.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Budget 
+
 Item						Units and Cost				Total			Justification
+
 Interviewee incentives		$15/person, 8 people		$120			Compensation for professional participants.
+
 Cloud Storage				$20 						$20				Secure storage for datasets and analysis.
+
 Printing Materials			$20						 	$20				Final report and presentation materials.
+
 Software					$0							$0				UCF provides required tools (Python, Excel, etc.)
+
 Transcription				$0							$0				Free tools (Zoom or AI transcription)
+
 Total						-							$160	
 
 
