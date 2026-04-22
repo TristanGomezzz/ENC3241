@@ -105,7 +105,7 @@ Item&emsp;&emsp;&emsp;&emsp;&emsp;	&emsp;&emsp;	&emsp;	&emsp;&emsp;		Units and C
 
 Interviewer incentives&emsp;&emsp;		$15/person, 8 people	&emsp;&emsp;	$120	&emsp;&emsp;		Compensation for professional participants.
 
-Cloud Storage		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;		$20 		&emsp;&emsp;&emsp;&emsp;&emsp;				$20			&emsp;&emsp;	&emsp;&emsp;&emsp;Secure storage for datasets and analysis.
+Cloud Storage		&emsp;&emsp;&emsp;&emsp;&emsp;		$20 		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;				$20			&emsp;&emsp;	&emsp;&emsp;&emsp;Secure storage for datasets and analysis.
 
 Printing Materials			$20						 	$20				Final report and presentation materials.
 
