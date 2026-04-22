@@ -7,7 +7,7 @@ title: Resume
 
 Tristan Gomez
 
-Oviedo, FL | (786) 252-6870 | tristangomez04@outlook.es | linkedin.com/in/tristan
+Oviedo, FL | &emsp;&emsp;(786) 252-6870 |&emsp;&emsp; tristangomez04@outlook.es &emsp;&emsp;| linkedin.com/in/tristan
 
 __EDUCATION__
 
