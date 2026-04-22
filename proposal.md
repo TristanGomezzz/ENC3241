@@ -111,7 +111,7 @@ Printing Materials		&emsp;&emsp;&emsp;&emsp;	$20		&emsp;&emsp;&emsp;&emsp;&emsp;
 
 Software	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;			$0		&emsp;	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;				$0			&emsp;&emsp;&emsp;&emsp;&emsp;	UCF provides required tools (Python, Excel, etc.)
 
-Transcription				$0							$0				Free tools (Zoom or AI transcription)
+Transcription	&emsp;&emsp;&emsp;&emsp;&emsp;			$0	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;				$0		&emsp;&emsp;&emsp;&emsp;&emsp;		Free tools (Zoom or AI transcription)
 
 Total						-							$160	
 
