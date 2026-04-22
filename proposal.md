@@ -107,7 +107,7 @@ Interviewer incentives&emsp;&emsp;		$15/person, 8 people	&emsp;&emsp;	$120	&emsp
 
 Cloud Storage		&emsp;&emsp;&emsp;&emsp;&emsp;		 $20 		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;				$20			&emsp;&emsp;	&emsp;&emsp;&emsp;Secure storage for datasets and analysis.
 
-Printing Materials			$20						 	$20				Final report and presentation materials.
+Printing Materials		&emsp;&emsp;&emsp;&emsp;	$20		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;		 	$20			&emsp;&emsp;&emsp;&emsp;&emsp;	Final report and presentation materials.
 
 Software					$0							$0				UCF provides required tools (Python, Excel, etc.)
 
